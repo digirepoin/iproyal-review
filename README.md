@@ -50,6 +50,11 @@ IPRoyal is a premium proxy service specializing in rotating residential, datacen
 ## IPRoyal Features  
 
 ### 1. Rotating Residential Proxies  
+
+<a href="https://afftrend.com/iproyal">
+  <img src="https://drive.google.com/uc?export=view&id=1X8XLUK8lSeZ9UYEvIJytxEYpS6dLGze8" alt="Try IPRoyal">
+</a>
+
 IPRoyal’s rotating residential proxies assign a new IP address for each request or session, minimizing the risk of detection and blocking. With over 5 million IPs across 195+ countries, users enjoy seamless access to geo-restricted content and comprehensive web scraping capabilities. These proxies are ideal for large-scale data extraction, price monitoring, and bypassing restrictive firewalls without compromising anonymity.
 
 ### 2. Sticky Sessions  
